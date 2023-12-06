@@ -1,0 +1,11 @@
+Hallazgos:
+- Las pruebas automatizadas cubren con éxito el flujo de compra en la página Opencart.
+- El uso de Serenity BDD, Cucumber y Screenplay permitió una organización clara de las pruebas segun los parametros vistos en
+  el workshop bajo las demandas requeridas por el cliente
+
+Conclusiones:
+- El flujo de prueba es claro y abarca los escenarios definidos con éxito.
+- Se recomienda seguir mejorando la modularidad y mantenibilidad de las pruebas para futuras iteraciones.
+- Las tecnologías utilizadas proporcionaron un marco sólido para realizar pruebas funcionales automatizadas.
+
+Nota: Estas conclusiones se basan en la implementación actual y pueden variar con futuras actualizaciones o cambios en el proyecto.

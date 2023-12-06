@@ -1,0 +1,7 @@
+
+w
+java:S1104"UMake OPEN_CART a static final constant or non-public and provide accessors if needed.(’á€Ûüÿÿÿÿ8¨¸”èÃ1
+Q
+java:S1444"/Make this "public static OPEN_CART" field final(’á€Ûüÿÿÿÿ8©¸”èÃ1
+v
+java:S3008"TRename this field "OPEN_CART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’á€Ûüÿÿÿÿ8­¸”èÃ1
